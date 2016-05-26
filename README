@@ -1,5 +1,7 @@
 # == eBay API Client for Ruby
 #
+# Only works with XML-Mapping Version 0.8.1
+#
 # * Simple and easy to use Ruby implementation.
 # * Ability to return a raw response for calls that return an extremely large response such as GetCategoriesRequest.
 # * Up-to-date with the eBay API version 591
